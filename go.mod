@@ -1,4 +1,4 @@
-module github.com/polykernel/caddy-darkvisitors
+module github.com/jgoguen/caddy-darkvisitors
 
 go 1.23.3
 
